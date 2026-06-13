@@ -1,5 +1,5 @@
 # Galaxy-sim
-I'm are realising a game galaxy sim for phone
+I'm realising a game galaxy sim for phone
 🚀 ANNOUNCEMENT: GALAXY SIM
 
 Galaxy Sim is coming soon!
@@ -19,6 +19,6 @@ Features:
 🌌 Two explorable galaxies
 🚀 Space exploration and simulation
 
-The game is currently in final testing and will be released in 1–2 days.
+The game is currently in final testing and will be released in 5-7 days.
 
 Stay tuned for the first public release!
